@@ -54,7 +54,6 @@ The following results were obtained:
 | 🔼 Estimated Uplift | \$29364.16 |
 | 🔼 Uplift Percentage | 365.54% |
 
-_(Replace XXX with your final numbers.)_
 
 ---
 
